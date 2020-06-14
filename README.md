@@ -6,8 +6,16 @@ The existing repository is a template, I can generate new repositories with the 
 
 ## Contents
 
+- [Setup Steps](#setup-steps)
 - [How to run the project locally](#how-to-run-the-project-locally)
 - [Helpful resources](#helpful-resources)
+
+
+## Setup Steps
+
+```
+Code here
+```
 
 ## How to run the project locally
 
