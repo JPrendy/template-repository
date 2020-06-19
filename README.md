@@ -8,6 +8,7 @@ The existing repository is a template, I can generate new repositories with the 
 
 - [Setup Steps](#setup-steps)
 - [How to run the project locally](#how-to-run-the-project-locally)
+- [Tools](#tools)
 - [Helpful resources](#helpful-resources)
 
 
@@ -22,6 +23,10 @@ Code here
 ```
 Code here
 ```
+
+## Tools
+
+**Linter:** we use the following linter [link](https://github.com/github/super-linter). 
 
 ## Helpful resources
 
