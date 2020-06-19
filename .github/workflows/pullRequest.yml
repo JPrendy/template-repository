@@ -13,8 +13,8 @@ on:
 jobs:
   build:
 
-  # runs-on: macos-10.15
-    runs-on: ubuntu-latest # need to use linux if we want to use the linter
+    runs-on: macos-10.15
+  #  runs-on: ubuntu-latest # need to use linux if we want to use the linter
 
     steps:
     - uses: actions/checkout@v2
