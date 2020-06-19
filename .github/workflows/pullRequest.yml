@@ -13,14 +13,16 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+  # runs-on: macos-10.15
+    runs-on: ubuntu-latest # need to use linux if we want to use the linter
 
     steps:
     - uses: actions/checkout@v2
 
     # Run Linter against code base, see https://github.com/github/super-linter for how the linter works
     - name: Lint Code Base
-      uses: github/super-linter@v2.0.0
+      if: ${{ runner.os == 'Linux'}}
+      uses: docker://github/super-linter:v2.0.0
       env:
         VALIDATE_ALL_CODEBASE: false
         VALIDATE_MD: true
