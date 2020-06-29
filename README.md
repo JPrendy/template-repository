@@ -30,12 +30,15 @@ Code here
 
 ## Update Dependencies
 
-How to update a npm package.
+**Npm:** How to update a npm package.
 - [link](https://docs.npmjs.com/cli/update).
 
-How to update a Gemfile package.
+**Gemfile:** How to update a Gemfile package.
 - [link](https://bundler.io/man/bundle-update.1.html#UPDATING-A-LIST-OF-GEMS).
 
+## Releases
+
+How to manage releases in a repository [link](https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository). 
 
 ## Helpful resources
 
