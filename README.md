@@ -9,6 +9,8 @@ The existing repository is a template, I can generate new repositories with the 
 - [Setup Steps](#setup-steps)
 - [How to run the project locally](#how-to-run-the-project-locally)
 - [Tools](#tools)
+- [Update Dependencies](#update-dependencies)
+- [Releases](#releases)
 - [Helpful resources](#helpful-resources)
 
 
