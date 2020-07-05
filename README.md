@@ -28,7 +28,11 @@ Code here
 
 ## Tools
 
-**Linter:** we use the following linter [link](https://github.com/github/super-linter). 
+**Linter:** we use the following linter [link](https://github.com/github/super-linter).
+
+**Uploading Artifacts:**  we use the following way to upload Artifacts, they allow you to persist data like test results after a job has completed, see the following documentation [link](https://docs.github.com/en/actions/configuring-and-managing-workflows/persisting-workflow-data-using-artifacts).
+
+**Creating a Mock Server:** we use a mock server with Postman to quickly test apis, to see how to create a mock server, see the following video [link](https://www.youtube.com/watch?v=rJY8uUH2TIk). 
 
 ## Update Dependencies
 

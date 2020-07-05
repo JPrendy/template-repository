@@ -31,3 +31,10 @@ jobs:
       if: ${{ github.base_ref == 'master' }}
       run: echo Github Actions template
 
+    # Artifacts allow you to persist data like test results after a job has completed, see https://docs.github.com/en/actions/configuring-and-managing-workflows/persisting-workflow-data-using-artifacts for how the artifacts works
+    # - name: Upload Fastlane Test results
+    #   uses: actions/upload-artifact@v1
+    #   with:
+    #     name: Fastlane Test Results
+    #     path: fastlane/test_output    
+
