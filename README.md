@@ -36,7 +36,7 @@ Code here
 
 ### Mobile Specific Tools:
  
-**Fastlane:** Fastlane allows us to automate our development and release process[link](https://docs.fastlane.tools/).
+**Fastlane:** Fastlane allows us to automate our development and release process [link](https://docs.fastlane.tools/).
 
 **App Center:** App Center is used to distribute an app, making it very easy to test on a physical device by using a fastlane plugin [link](https://github.com/microsoft/fastlane-plugin-appcenter).
 
