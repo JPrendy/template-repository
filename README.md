@@ -34,6 +34,12 @@ Code here
 
 **Creating a Mock Server:** we use a mock server with Postman to quickly test apis, to see how to create a mock server, see the following video [link](https://www.youtube.com/watch?v=rJY8uUH2TIk). 
 
+### Mobile Specific Tools:
+ 
+**Fastlane:** Fastlane allows us to automate our development and release process[link](https://docs.fastlane.tools/).
+
+**App Center:** App Center is used to distribute an app, making it very easy to test on a physical device by using a fastlane plugin [link](https://github.com/microsoft/fastlane-plugin-appcenter).
+
 ## Update Dependencies
 
 **Npm:** How to update a npm package.
