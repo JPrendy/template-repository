@@ -13,7 +13,6 @@ The existing repository is a template, I can generate new repositories with the 
 - [Releases](#releases)
 - [Helpful resources](#helpful-resources)
 
-
 ## Setup Steps
 
 ```
@@ -31,6 +30,8 @@ Code here
 **Linter:** we use the following linter [link](https://github.com/github/super-linter).
 
 **Uploading Artifacts:**  we use the following way to upload Artifacts, they allow you to persist data like test results after a job has completed, see the following documentation [link](https://docs.github.com/en/actions/configuring-and-managing-workflows/persisting-workflow-data-using-artifacts).
+
+**Creating images/icons:** we use Figma to create images and icon. Figma makes it very easy to create designs in many different formats.
 
 **Creating a Mock Server:** we use a mock server with Postman to quickly test apis, to see how to create a mock server, see the following video [link](https://www.youtube.com/watch?v=rJY8uUH2TIk). 
 
