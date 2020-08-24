@@ -19,7 +19,7 @@ The existing repository is a template, I can generate new repositories with the 
 Code here
 ```
 
-<p><img src="images/exampleImage.png" width="100"/></p>
+<p><img src="images/exampleImage.png" width="300"/></p>
 
 ## How to run the project locally
 
