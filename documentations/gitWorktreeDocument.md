@@ -1,4 +1,4 @@
-# Git Squash Documentation
+# Git Worktree Documentation
 
 ## Description
 
