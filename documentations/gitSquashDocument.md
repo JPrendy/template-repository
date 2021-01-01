@@ -1,8 +1,8 @@
-# Git Documentation
+# Git Squash Documentation
 
 ## Description
 
-The following documentation outlines how to use certain features using Git.
+The following documentation outlines how to Git Squash.
 
 ## Git Squash Commits with Git Graph
 

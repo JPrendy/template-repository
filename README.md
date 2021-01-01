@@ -56,7 +56,9 @@ Code here
 
 ## Documentations
 
-How to Git Squash with VS Code [link](documentations/gitDocuments.md).
+**Git Squash:** How to Git Squash with VS Code [link](documentations/gitSquashDocument.md).
+
+**Git Worktree:** How to use Git Worktree [link](documentations/gitWorktreeDocument.md).
 
 ## Releases
 
