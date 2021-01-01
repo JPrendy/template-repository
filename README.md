@@ -11,6 +11,7 @@ The existing repository is a template, I can generate new repositories with the 
 - [Tools](#tools)
 - [Update Dependencies](#update-dependencies)
 - [Releases](#releases)
+- [Documentations](#documentations)
 - [Helpful resources](#helpful-resources)
 
 ## Setup Steps
@@ -52,6 +53,10 @@ Code here
 
 **Gemfile:** How to update a Gemfile package.
 - [link](https://bundler.io/man/bundle-update.1.html#UPDATING-A-LIST-OF-GEMS).
+
+## Documentations
+
+How to Git Squash with VS Code [link](documentations/gitDocuments.md).
 
 ## Releases
 
