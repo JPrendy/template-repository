@@ -60,6 +60,8 @@ Code here
 
 **Git Worktree:** How to use Git Worktree [link](documentations/gitWorktreeDocument.md).
 
+**Git Empty Commit:** How to use Git Empty Commit [link](documentations/gitEmptyCommitDocument.md).
+
 ## Releases
 
 How to manage releases in a repository [link](https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository). 
