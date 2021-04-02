@@ -62,6 +62,8 @@ Code here
 
 **Git Empty Commit:** How to use Git Empty Commit [link](documentations/gitEmptyCommitDocument.md).
 
+**Common Design Patterns and App Architectures for Mobile**: [link](https://www.raywenderlich.com/18409174-common-design-patterns-and-app-architectures-for-android#toc-anchor-001). 
+
 ## Releases
 
 How to manage releases in a repository [link](https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository). 
