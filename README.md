@@ -62,7 +62,7 @@ Code here
 
 **Git Empty Commit:** How to use Git Empty Commit [link](documentations/gitEmptyCommitDocument.md).
 
-**Common Design Patterns and App Architectures for Mobile**: [link](https://www.raywenderlich.com/18409174-common-design-patterns-and-app-architectures-for-android#toc-anchor-001). 
+**Common Design Patterns and App Architectures for Mobile**: [link](https://www.raywenderlich.com/18409174-common-design-patterns-and-app-architectures-for-android#toc-anchor-001) and [link](https://dev.to/codalreef/learn-dependency-injection-with-doug-the-goldfish-3j43). 
 
 ## Releases
 
