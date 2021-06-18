@@ -38,6 +38,8 @@ Code here
 
 **Creating a Mock Server:** we use a mock server with Postman to quickly test apis, to see how to create a mock server, see the following video [link](https://www.youtube.com/watch?v=rJY8uUH2TIk). 
 
+**Converting JSON to Code:** A tool to generate models and serializers from JSON, schema, and GraphQL for working with data quickly & safely in any programming language [link](https://app.quicktype.io/).
+
 ### Mobile Specific Tools:
  
 **Fastlane:** Fastlane allows us to automate our development and release process [link](https://docs.fastlane.tools/).
