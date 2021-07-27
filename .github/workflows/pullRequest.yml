@@ -14,6 +14,7 @@ jobs:
   build:
   # runs on Big Sur virtual environment
     runs-on: macos-11.0
+    timeout-minutes: 20
   #  runs-on: ubuntu-latest # need to use linux if we want to use the linter
 
     steps:
