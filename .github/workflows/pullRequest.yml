@@ -3,11 +3,11 @@ name: CI pull request
 on:
   push: 
     branches:
-      - master
+      - main
       - develop
   pull_request:
     branches:
-      - master
+      - main
       - develop
 
 jobs:
@@ -29,7 +29,7 @@ jobs:
         VALIDATE_MD: true
 
     - name: Run tests
-      if: ${{ github.base_ref == 'master' }}
+      if: ${{ github.base_ref == 'main' }}
       run: echo Github Actions template
 
     # Artifacts allow you to persist data like test results after a job has completed, see https://docs.github.com/en/actions/configuring-and-managing-workflows/persisting-workflow-data-using-artifacts for how the artifacts works
