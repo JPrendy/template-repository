@@ -42,4 +42,6 @@ Here are some `byebug` commands:
 
 - type `v local` for `var local`
 
+-  type `c` or `cont` for `continue`
+
 Let's say we have a variable `num` when we type `num`, it will display the current value of that variable in the Ruby script.
