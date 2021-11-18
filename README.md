@@ -66,6 +66,8 @@ Code here
 
 **Ruby Debugger:** How to use debug Ruby with Byebug [link](documentations/rubyDebuggerDocument.md).
 
+**Run Github Actions locally:** How to run Github Actions locally with Act [link](documentations/runGithubActionsLocally.md).
+
 **Common Design Patterns and App Architectures for Mobile**: [link](https://www.raywenderlich.com/18409174-common-design-patterns-and-app-architectures-for-android#toc-anchor-001) and [link](https://dev.to/codalreef/learn-dependency-injection-with-doug-the-goldfish-3j43). 
 
 ## Releases
