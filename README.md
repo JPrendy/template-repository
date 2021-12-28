@@ -58,6 +58,8 @@ Code here
 
 ## Documentations
 
+**Import code from another repo:** How to import code from another repo [link](documentations/importCodeFromAnotherRepoDocument.md).
+
 **Git Squash:** How to Git Squash with VS Code [link](documentations/gitSquashDocument.md).
 
 **Git Worktree:** How to use Git Worktree [link](documentations/gitWorktreeDocument.md).
