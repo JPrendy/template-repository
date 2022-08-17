@@ -12,13 +12,13 @@ on:
 
 jobs:
   build:
-  # runs on Big Sur virtual environment
-    runs-on: macos-11.0
+    # runs on the latest macOS virtual environment
+    runs-on: macos-latest
     timeout-minutes: 20
-  #  runs-on: ubuntu-latest # need to use linux if we want to use the linter
+    #  runs-on: ubuntu-latest # need to use linux if we want to use the linter
 
     steps:
-    - uses: actions/checkout@v2.3.4
+    - uses: actions/checkout@v3.0.2
 
     # Run Linter against code base, see https://github.com/github/super-linter for how the linter works
     - name: Lint Code Base
