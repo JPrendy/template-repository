@@ -60,6 +60,8 @@ Code here
 
 **Import code from another repo:** How to import code from another repo [link](documentations/importCodeFromAnotherRepoDocument.md).
 
+**Code Snippets for VS Code, Android Studio and Xcode** How to use Code Snippets in VS Code, Android Studio and Xcode [link](documentations/codeSnippetsDocument.md).
+
 **Git Squash:** How to Git Squash with VS Code [link](documentations/gitSquashDocument.md).
 
 **Git Worktree:** How to use Git Worktree [link](documentations/gitWorktreeDocument.md).
