@@ -44,8 +44,6 @@ Code here
  
 **Fastlane:** Fastlane allows us to automate our development and release process [link](https://docs.fastlane.tools/).
 
-**App Center:** App Center is used to distribute an app, making it very easy to test on a physical device by using a fastlane plugin [link](https://github.com/microsoft/fastlane-plugin-appcenter).
-
 **Proxyman:** we use Proxyman to view HTTP/HTTPS requests as they happen, it is easier to debug network connections on mobile on Proxyman where we can test and mock specific network responses, see the following documentation [link](https://docs.proxyman.io/debug-devices/ios-simulator). Proxyman also allows you intercept and edit requests/responses, see the following documentation [link](https://proxyman.io/blog/2019/08/Use-Breakpoint-to-intercept-and-edit-request-response-on-iOS-app.html). 
 
 ## Update Dependencies
